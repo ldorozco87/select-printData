@@ -1,6 +1,6 @@
-# Print Data from JSON using a <select>
+# Print Data from JSON using a select
 
-Print Data from a JSON using a <select>.
+Print Data from a JSON using a select.
 
 ## Getting Started
 
