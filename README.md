@@ -1,8 +1,8 @@
-# Description:
-Print Data from a JSON using a <select>. I'm using fetch, and fetch need to run a local server to works.
+# <Select> print data from JSON
+
+Description: Print Data from a JSON using a <select>. I'm using fetch, and fetch needs to run a local server to works.
 
 ### Installation guide
-Commands for installation (on project root):
 ```
 npm init -y
 npm install -g express-generator
