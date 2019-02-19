@@ -1,4 +1,4 @@
-# <Select> print data from JSON
+# print data from JSON
 
 Description: Print Data from a JSON using a <select>. I'm using fetch, and fetch needs to run a local server to works.
 
