@@ -36,7 +36,7 @@ const gileadForm = (function () {
 
                         $DOM.drugsWrapper.appendChild(TEMPLATE);
                     }
-                    if (drugs !== "N/A") {
+                    else {
                         drugs.map((drug) => {
                             const TEMPLATE = document.createElement("div");
                             TEMPLATE.innerHTML = `<p>${drug}</p>`;
